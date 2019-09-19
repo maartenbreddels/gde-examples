@@ -22,7 +22,8 @@ See a [preview of this notebook on nbviewer](https://nbviewer.jupyter.org/github
 
 Or see this screencapture:
 
-TODO
+![introduction-vaex-gaia](https://user-images.githubusercontent.com/1765949/65245603-27b83a00-daed-11e9-968a-9fda75582d89.gif)
+
 
 # Voila
 
