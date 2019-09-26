@@ -27,3 +27,41 @@ Or see this screencapture:
 
 # Voila
 
+[Voila](https://github.com/QuantStack/voila) makes it possible to share the output of your notebook with others, without showing the code. We have two examples.
+
+## Simple
+
+In this notebook, we use [ipywidgets' interact](https://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html) to make a interactive simple exploration tool.
+
+See a [preview of this notebook on nbviewer](https://nbviewer.jupyter.org/github/maartenbreddels/gde-examples/blob/master/voila-vaex-simple.ipynb)
+
+Or see this screencapture:
+
+![voila-vaex-simple](https://user-images.githubusercontent.com/1765949/65671306-4e272980-e047-11e9-8842-344f559a81e1.gif)
+
+Or [try out the notebook live](http://ec2-18-222-183-211.us-east-2.compute.amazonaws.com:8867/)
+
+You can run this notebook locally (you may want to edit the variable `powerful_machine` to False), by running
+```
+$ voila ./voila-vaex-simple.ipynb
+```
+
+
+## Advanced
+
+The advanced notebook creates a modern webapp, using [ipyvuetify](https://github.com/mariobuikhuizen/ipyvuetify/) and [bqplot](https://github.com/bloomberg/bqplot). It may be a bit more difficult to understand or modify, but shows how far you can go into building a dashboard using voila, vaex and ipywidgets.
+
+See a [preview of this notebook on nbviewer](https://nbviewer.jupyter.org/github/maartenbreddels/gde-examples/blob/master/voila-vaex-advanced.ipynb)
+
+Or see this screencapture:
+
+![voila-vaex-advanced-opt](https://user-images.githubusercontent.com/1765949/65671611-d4437000-e047-11e9-8af5-f237488b30f0.gif)
+
+
+Or [try out the notebook live](http://ec2-18-222-183-211.us-east-2.compute.amazonaws.com:8866/voila/render/voila-vaex-gaia-advanced.ipynb)
+
+
+You can run this notebook locally (only on a powerful machine), by running
+ ```
+$ voila --enable_nbextensions=True . --template=vuetify-base ./voila-vaex-advanced.ipynb
+```
