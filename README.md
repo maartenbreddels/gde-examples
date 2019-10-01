@@ -1,6 +1,6 @@
 # Gaia Discovery Engine
 
-This repository contains notebook for exploring the Gaia dataset (1 billion rows, 1 terabyte) using [vaex](https://github.com/vaexio/vaex/) with a remote dataset hosted at AWS by [STScI](http://www.stsci.edu). This allows you to compute for instance histograms of the full dataset without having to download all the data.
+This repository contains notebook for exploring the Gaia dataset (1 billion rows, 1 terabyte) using [vaex](https://github.com/vaexio/vaex/) with a remote dataset hosted at AWS. This allows you to compute for instance histograms of the full dataset without having to download all the data. The GDE as a project funded by Heising-Simons Foundation, jointly run by JHU and CMU, with development led by Maarten Breddels.
 
 # Installation/running
 
