@@ -1,0 +1,5 @@
+vaex-core==2.0.2
+vaex-jupyter==0.5.1.post0
+vaex-server==0.3.1
+voila==0.1.20
+voila-vuetify==0.3
