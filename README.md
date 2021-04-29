@@ -18,7 +18,7 @@ This repository contains notebook for exploring the Gaia dataset (1 billion rows
 
 `20-voila-vaex-hr-diagram.ipynb` shows how to create a simple interactive dashboard showing a Hertzsprung-Russell (HR) diagram
 
-[![Voila](https://img.shields.io/badge/run%20with-%20voilà-rgb(93,188,175))](https://voila.vaex.io/voila/render/gde-examples/20-voilà-vaex-hr-diagram.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maartenbreddels/gde-examples/HEAD?filepath=20-voila-vaex-hr-diagram.ipynb)
+[![Voila](https://img.shields.io/badge/run%20with-%20voilà-rgb(93,188,175))](https://voila.vaex.io/voila/render/gde-examples/20-voila-vaex-hr-diagram.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maartenbreddels/gde-examples/HEAD?filepath=20-voila-vaex-hr-diagram.ipynb)
 
 
 ## Full interactive Voilà dashboard showing a HR Diagram and Sky map.
