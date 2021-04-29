@@ -1,6 +1,6 @@
 # Gaia Discovery Engine (GDE)
 
-This repository contains notebook for exploring the Gaia dataset (1 billion rows, 1 terabyte) using [vaex](https://github.com/vaexio/vaex/) with the remote Gaia EDR3 dataset hosted in the Cloud. This allows you to compute for instance histograms of the full dataset without having to download all the data. The GDE as a project funded by Heising-Simons Foundation, jointly run by JHU and CMU, with development led by Maarten Breddels.
+This repository contains notebooks for exploring a remote-hosted Gaia EDR3 x PanSTARRS  dataset (1 billion rows, 1 terabyte) using [vaex](https://github.com/vaexio/vaex/). This system allows you to compute multi-dimensional histograms of the full dataset in _seconds_ without having to download all the data. The GDE as a project funded by the Heising-Simons Foundation through _Scialog_, with PIs Joshua Peek (STScI/JHU) and Sergey Koposov (Edinburgh) and development led by Maarten Breddels.
 
 
 
