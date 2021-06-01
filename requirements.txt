@@ -5,3 +5,5 @@ voila==0.2.7
 voila-vuetify==0.5.1
 astropy
 #xarray
+numba
+scipy
