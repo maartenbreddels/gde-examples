@@ -39,7 +39,7 @@ $ git clone https://github.com/maartenbreddels/gde-examples
 $ cd gde-examples
 
 # assuming conda
-$ conda -c conda-forge install vaex-core vaex-hdf5 vaex-viz notebook voila
+$ conda -c conda-forge install vaex-core vaex-hdf5 vaex-viz vaex-server notebook voila
 
 # otherwise using pip:
 # $ pip install -r requirements.txt
